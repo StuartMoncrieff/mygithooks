@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=first_git_project
+project.version=6.1
+project.original.version=6.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.2.1
+project.id=3a4a4971-ccf0-4368-a989-4b7db6672f8b
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/StuartMoncrieff/mygithooks.git
